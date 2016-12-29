@@ -4,4 +4,4 @@ python:
 install:
     - bash dependencies.sh
 script:
-    - python3 wsgi.py
+    - bash run_tests.sh
